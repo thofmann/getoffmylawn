@@ -1,0 +1,24 @@
+{
+  "name" : "getoffmylawn",
+  "version" : "0.0.1",
+  "description" : "A quick app for a hackathon",
+  "homepage" : "https://github.com/thofmann/getoffmylawn",
+  "repository" : {
+	"type" : "git",
+	"url" : "https://github.com/thofmann/getoffmylawn.git"
+  },
+  "bugs" : {
+    "url" : "https://github.com/thofmann/getoffmylawn/issues",
+    "email" : "trevinhofmann@gmail.com"
+  },
+  "author" : {
+    "name" : "Trevin Hofmann",
+    "email" : "trevinhofmann@gmail.com"
+  },
+  "dependencies" : {
+    "express" : "*",
+    "jade" : "*",
+    "request" : "*"
+  },
+  "main" : "app.js"
+}
